@@ -1,0 +1,3 @@
+*.json
+runs/
+.ipynb_checkpoints/
