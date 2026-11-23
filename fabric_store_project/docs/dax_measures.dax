@@ -1,0 +1,7 @@
+Revenue USD = SUM(fact_sales[amount_usd])
+Orders = DISTINCTCOUNT(fact_sales[order_id])
+Average Order USD = DIVIDE([Revenue USD], [Orders])
+Units Sold = SUM(fact_sales[quantity])
+Cancelled Orders = CALCULATE(DISTINCTCOUNT(fact_sales[order_id]), fact_sales[order_status] = "cancelled")
+Cancellation Rate = DIVIDE([Cancelled Orders], [Orders])
+Payments USD = SUM(fact_payments[amount_usd])

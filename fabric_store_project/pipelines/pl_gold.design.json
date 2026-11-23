@@ -1,0 +1,6 @@
+{
+  "name": "pl_gold",
+  "kind": "DESIGN_SPEC_NOT_IMPORTABLE",
+  "description": "Notebook activity: 03_gold_template plus entity-specific star schema transformations; validate FK and money.",
+  "requires_fabric_authoring": true
+}

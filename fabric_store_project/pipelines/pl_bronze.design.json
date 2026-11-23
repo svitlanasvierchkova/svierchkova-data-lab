@@ -1,0 +1,6 @@
+{
+  "name": "pl_bronze",
+  "kind": "DESIGN_SPEC_NOT_IMPORTABLE",
+  "description": "Lookup etl_control (active) -> ForEach -> Copy PostgreSQL to Bronze -> update load metadata; parallel NBU API raw ingestion. Configure dynamic table names and gateway connection in Fabric.",
+  "requires_fabric_authoring": true
+}
