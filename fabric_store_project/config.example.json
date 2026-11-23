@@ -1,9 +1,0 @@
-{
-  "workspace": "ws_shop_analytics",
-  "bronze": "lh_bronze", "silver": "lh_silver", "gold": "lh_gold",
-  "source_schema": "shop",
-  "source_tables": ["REPLACE_WITH_ALL_17_ACTUAL_TABLE_NAMES"],
-  "primary_keys": {"REPLACE_TABLE": ["id"]},
-  "incremental_watermarks": {},
-  "transaction_date_column": "REPLACE_AFTER_SCHEMA_INSPECTION"
-}

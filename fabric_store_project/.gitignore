@@ -1,6 +1,0 @@
-.env
-*secret*
-config.local.json
-.ipynb_checkpoints/
-__pycache__/
-*.log

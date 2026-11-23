@@ -1,6 +1,0 @@
-{
-  "name": "pl_main",
-  "kind": "DESIGN_SPEC_NOT_IMPORTABLE",
-  "description": "Invoke pl_bronze --Succeeded--> Invoke pl_silver --Succeeded--> Invoke pl_gold; daily schedule, retry and failure notification.",
-  "requires_fabric_authoring": true
-}

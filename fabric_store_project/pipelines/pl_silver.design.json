@@ -1,6 +1,0 @@
-{
-  "name": "pl_silver",
-  "kind": "DESIGN_SPEC_NOT_IMPORTABLE",
-  "description": "Notebook activity: 02_silver_merge, plus entity-specific mappings and FX normalization; fail on quality check.",
-  "requires_fabric_authoring": true
-}
